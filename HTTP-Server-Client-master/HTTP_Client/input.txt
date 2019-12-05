@@ -1,0 +1,2 @@
+GET /index.png localhost 4444
+GET /Batman.jpeg localhost 4444
